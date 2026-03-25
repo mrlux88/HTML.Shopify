@@ -1,0 +1,29 @@
+body {
+    background-color: whitesmoke;
+}
+
+nav{
+    background-color: white;
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+nav img {
+    width: 150px;
+    height: 160px;
+    margin-left: 100px;
+}
+
+nav button {
+    background-color: black;
+    margin-right: 100px;
+    color: aliceblue;
+    padding: 15px 20px;
+    border-radius: 25px;
+}
+
